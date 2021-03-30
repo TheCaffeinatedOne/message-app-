@@ -24,4 +24,4 @@ io.on('connection', (socket) => {
 
 });
 //notes: this does not work sadly. lowkey pissed about it
-// well it works on the same computer but i kinda half assed it and i know more but i gotta start from scratch
+// well it works on the same computer but i kinda half assed it and i know more but i gotta start from scratch 
